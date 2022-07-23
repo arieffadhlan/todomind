@@ -1,5 +1,5 @@
 # TodoMind App
-Aplikasi TodoMind menggunakan Java.
+Aplikasi pengingat tugas menggunakan Java.
 
 Fitur:
 - Melihat detail tugas
