@@ -1,8 +1,9 @@
 # TodoMind App
+Aplikasi TodoMind menggunakan Java.
 
 Fitur:
 - Melihat detail tugas
-- Menambah Pengingat Tugas
-- Mengedit Pengingat Tugas
-- Menghapus Pengingat Tugas
+- Menambah pengingat tugas
+- Mengedit pengingat tugas
+- Menghapus pengingat tugas
 - Menampilkan notifikasi
